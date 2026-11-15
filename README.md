@@ -210,7 +210,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulahad.webdev99@gmail.com&su=Hello%20Abdul%20Ahad&body=Hi%20Abdul%2C%0A%0A"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
@@ -221,3 +221,4 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d92,100:00d9ff&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
